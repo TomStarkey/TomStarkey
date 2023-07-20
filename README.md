@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o2lp657kezviuaoqkishrgki7vpkqo18a14vpi8k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="175"/>
 </div>
 <div id="badges" align="center">
-  <a href=["https://www.linkedin.com/in/tom-starkey-3860461b8/"](https://www.linkedin.com/in/tom-starkey-3850461b8/)>
+  <a href="https://www.linkedin.com/in/tom-starkey-3860461b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href"https://www.facebook.com/tom.starkey.733">
