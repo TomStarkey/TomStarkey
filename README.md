@@ -15,6 +15,7 @@
 ## Contents
 1) About Me
 2) Languages and Technologies
+3) Software Development Bootcamp Portfolio
 
 ## About Me
 As a self-motivated and hardworking individual, I have completed a Python Programming course at HyperionDev, where I gained proficiency in key programming concepts such as *variables, data structures, functions, and **Object-Oriented Programming***. My ability to think analytically and solve complex problems has been consistently demonstrated throughout my software engineer skills bootcamp, where I successfully completed 15 technical tasks focused on Python development.
@@ -37,6 +38,9 @@ I have a *broad range of experience* in my career, starting as an activities ins
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60">
 </div>
+
+## Software Development Bootcamp Portfolio
+For the completion of the HyperionDev Software Development Bootcamp I completed 15 tasks in Python. These can be accessed at this link: https://www.hyperiondev.com/portfolio/148228/
 
 
 <!--
