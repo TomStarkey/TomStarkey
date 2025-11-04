@@ -26,7 +26,7 @@ I have a *broad range of experience* in my career, starting as an activities ins
 
 🔭 I've previously worked in the Outdoor Education industry as an Instructor. Following this I worked as a Technical Clerk at Wood PLC, where I applied my programming skills to streamline administrative tasks and develop a data validation script.
 
-🌱 I’m currently looking to progress my career in **Administration**, **Data Management** and **Analysis**, or **Software Development**.
+🌱 I’m currently looking for a new career with opportunities for **progression**
 
 📝 Interesting fact about me: I recently spent a year travelling through tours, backpacking, and campervanning with my wife. My favourite places included Thailand, Peru, and Norway, and I really enjoyed getting into the history of all the places that I have been to. During this time I read Simon Sebag Montefiore's monstorous book "The World, A Family History" and the podcast series "Empires" and nerding out on niche history has become a passion of mine alongside programming.
 
